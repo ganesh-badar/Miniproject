@@ -100,7 +100,8 @@ Frontend + Java Developer passionate about backend and full‑stack development.
 
 ## 📬 Contact
 
-📧 Email: *Add your email here*
-💼 LinkedIn: *Add your LinkedIn profile*
+📧 Email: *ganeshbadar01@gmail.com*
+💼 LinkedIn: *www.linkedin.com/in/
+ganesh-badar2004*
 
 If you like this project, don't forget to ⭐ the repository! 😊
